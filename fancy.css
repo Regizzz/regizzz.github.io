@@ -1,0 +1,16 @@
+body {
+    background: #8B5CF6;
+}
+
+.techno {
+    margin-top: 5rem;
+    gap: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#soundcloud {
+    display: flex;
+}
