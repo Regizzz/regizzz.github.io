@@ -1,5 +1,7 @@
 body {
     background: #8B5CF6;
+    margin: 0;
+    height: 100%;
 }
 
 .techno {
@@ -9,8 +11,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    flex-grow: 1;
 }
 
 #soundcloud {
     display: flex;
+    flex-grow: 1;
 }
